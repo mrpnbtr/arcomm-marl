@@ -1,5 +1,5 @@
 # arcomm-marl
-Codes used in the paper Learning Multi-Agent Communication using Regularized Attention Messages.
+Codes used for ARCOMM-MARL. 
 <br>Environments from [SMAC](https://github.com/oxwhirl/smac) and [MA-gym](https://github.com/koulanurag/ma-gym).
 
 Some examples on how to run:
